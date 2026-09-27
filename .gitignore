@@ -1,0 +1,9 @@
+node_modules
+build/
+out/
+analysis/
+package-lock.json
+__pycache__/
+*.skill
+*-workspace/
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "name": "headless-export-tools",
+  "private": true,
+  "type": "module",
+  "description": "puppeteer-core 驱动无头 Chrome 逐帧导出 PNG 序列 + 离线音频",
+  "dependencies": {
+    "puppeteer-core": "^25.0.0",
+    "ws": "^8.18.0"
+  }
+}
